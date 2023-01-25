@@ -13,7 +13,7 @@ passionate about programming ♥
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" height="50px"/>
 
-![Snake animation](https://github.com/{{hugocardosopb}}/{{hugocardosopb}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hugocardosopb/hugocardosopb/blob/output/github-contribution-grid-snake.svg)
           
           
 
